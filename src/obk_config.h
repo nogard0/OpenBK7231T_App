@@ -4,6 +4,7 @@
 #ifndef OBK_CONFIG_H
 #define OBK_CONFIG_H
 
+//init autobuild
 #define DISABLE_FLASH_VARS_VARS
 
 #define OBK_VARIANT_DEFAULT						0
